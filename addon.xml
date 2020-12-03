@@ -9,10 +9,10 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Es conecta a les Emisions de TV3 OnLine</summary>
-        <description lang="en_GB"></description>
+        <summary lang="es_CA">Es conecta a les Emisions de TV3 OnLine</summary>
+        <description lang="es_CA"></description>
         <language></language>
-        <platform>linux</platform>
+        <platform>all</platform>
         <license>GPL-3.0</license>
         <forum></forum>
         <website></website>
